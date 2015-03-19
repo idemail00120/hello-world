@@ -1,1 +1,5 @@
-this is test.php file 
+<?php
+
+echo "Hello Friends";
+
+#this is test.php file 
